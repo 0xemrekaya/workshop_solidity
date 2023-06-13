@@ -26,7 +26,7 @@ This is a simple Solidity smart contract that represents a basic banking system.
 ### Example Interaction using Remix IDE
 1) Deploy the ```bank.sol``` contract in the Remix IDE environment.
 
-2) Select the contract instance from the "Deployed Contracts" section.
+2) Select the contract instance from the "Deployed & run transactions" section.
 
 3) Use the provided functions to interact with the contract:
   * To deposit funds, call the ```deposit()``` function and specify the amount you want to deposit.
