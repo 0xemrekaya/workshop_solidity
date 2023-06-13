@@ -1,4 +1,4 @@
-# Bank Smart Contract
+# For ```bank.sol``` Smart Contract
 This is a simple Solidity smart contract that represents a basic banking system. The contract allows users to deposit and withdraw funds, check their balance, view their address, and transfer funds to other addresses.
 
 ## Features
